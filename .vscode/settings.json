@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Jogo do balabobaco.sln"
+    "dotnet.defaultSolution": "solar system.sln"
 }
