@@ -24,6 +24,7 @@ public class cameraSwitch : MonoBehaviour
         cameraDefault2.enabled = true;
         cameraFOV1.enabled = false;
         cameraFOV2.enabled = false;
+        actualPlayer = 1;
     }
 
     void Update()
